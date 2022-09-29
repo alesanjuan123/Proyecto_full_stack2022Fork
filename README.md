@@ -4,3 +4,7 @@
 
 Les comparto el link para colaborar 
 https://lucid.app/lucidspark/69bb97f7-e2c2-45b3-a8dc-4ac63d4ce8db/edit?viewport_loc=-2052%2C-716%2C7680%2C3876%2C0_0&invitationId=inv_9ef4db61-92fc-49b2-b42f-fe4083a9d8bd#
+
+Edit 29/09/2022:
+Le agrego una nueva seccion al mapa para el control personalizado de las mascotas
+[![Mapa-App-Mascotas.jpg](https://i.postimg.cc/3NBWDVZf/Mapa-App-Mascotas.jpg)](https://postimg.cc/m1PTvdJ7)
