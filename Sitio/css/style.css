@@ -44,3 +44,31 @@ nav ul li {
 .buscador input {
     width: 100%;
 }
+
+#slider img {
+    width: 100%;
+}
+
+.bi-image {
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.p-100 {
+    padding:100px 0;
+}
+
+.home-contenido.slider {
+    padding-top:0;
+}
+
+.banner-center img {
+    width: 100%;
+}
+
+.form-user {
+    padding: 50px;
+}
